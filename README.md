@@ -1,4 +1,4 @@
-Project name: Ghanaian Akan Names Generator program
+Project name: Akan Names Generator program (Ghanaian)
 
 Project description: This is a web application that takes a user's birthday and generates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
