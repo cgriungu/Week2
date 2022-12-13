@@ -6,18 +6,14 @@
  
     
     
-    // retrieving input values
+    
     
     var date = dateElement.value; 
     const gender = genderElement.value;
  
     const myBirthday = [date,gender]
     
-    // day of the week function
-    // Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
-    // date = cc-yy-mm-dd
-    // Retrieve the date values from the date of birth for us to run the day of the week function
-    // convert date values to number
+    
     
        
     var CC = Number(date.slice(0,2));
@@ -34,7 +30,7 @@
     var dayOfTheWeek = Math.floor((((CC/4)-2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD)%7);
         
         
-    //    days of the week
+   
     
     const daysOfTheWeek = [
             "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
