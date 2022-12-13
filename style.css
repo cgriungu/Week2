@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2RklFtu1ggSXSRCUHWb_wjABy1uP-TkfzA&usqp=CAU);
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px 100px 100px 50px;
+}
+
+head{
+    font-family: Arial;
+    font-size: 250%;
+    font-weight: 200%;
+    align-content: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(185, 44, 44);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+p   {
+    color: black;
+    font-family: Arial;
+    font-size: 100%;   
+}
+#clear {background: coral;
+}
+#myBirthday {background-color: darkturquoise;
+}
+Footer
+© 2022 GitHub, Inc.
