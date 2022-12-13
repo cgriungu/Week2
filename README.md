@@ -14,6 +14,6 @@ Acceptance criteria 1: Given that a user supplies their DOB and gender, when the
 
 Technologies used: Javascript, CSS and HTML
 
-Contact information: Tel:+254713444444, email: kristineku@gmail.com, Twitter: @eoloo
+Contact information: Tel:+25471344444, email: kristineku@gmail.com, Twitter: @eoloo
 
 License and Copyright information: Copyright October.2022. Evans-Oloo# Week2
