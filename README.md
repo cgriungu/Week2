@@ -14,6 +14,6 @@ Acceptance criteria 1: Given that a user supplies their DOB and gender, when the
 
 Technologies used: Javascript, CSS and HTML
 
-Contact information: Tel:+254720806000, email: kristinekiki@gmail.com, Twitter: 
+Contact information: Tel:+254720806000, email: kristinekiki@gmail.com, Twitter:@kristinekikisha
 
 License and Copyright information: Copyright October.2022. Evans-Oloo# Week2
