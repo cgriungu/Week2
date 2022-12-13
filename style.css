@@ -7,7 +7,7 @@ body {
     margin: 50px 100px 100px 50px;
 }
 
-head{
+head {
     font-family: Arial;
     font-size: 250%;
     font-weight: 200%;
@@ -29,14 +29,17 @@ button {
     border-radius: 5px;
 }
 
-p   {
+p {
     color: black;
     font-family: Arial;
-    font-size: 100%;   
+    font-size: 100%;
 }
-#clear {background: coral;
+
+#clear {
+    background: coral;
 }
-#myBirthday {background-color: darkturquoise;
+
+#myBirthday {
+    background-color: darkturquoise;
 }
-Footer
-© 2022 GitHub, Inc.
+
