@@ -16,4 +16,4 @@ Technologies used: Javascript, CSS and HTML
 
 Contact information: Tel:+254720806000, email: kristinekiki@gmail.com, Twitter:@kristinekikisha
 
-License and Copyright information: Copyright October.2022. Evans-Oloo# Week2
+License and Copyright information: Copyright December.2022. Christine-Riungu# Week2
