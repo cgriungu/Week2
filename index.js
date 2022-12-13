@@ -41,13 +41,13 @@
             "Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"
     ];
     
-    // female Akan names
+    
     const femaleNames = [
             "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"
     ];
     
     
-          // date of birth validation
+          
     
     if (date == ''){
             alert('Please enter a valid Date of Birth')
@@ -58,7 +58,7 @@
  
     }
      
-        //   male name get function
+        
     
     var index;
         
@@ -86,7 +86,7 @@
        alert ('You have entered incorrect datails, kindly try again!')
     }  
                     
-    //clear/reset fuction
+    
     document.getElementById("clear").onclick = function() {
        document.getElementById("myBirthday").value = "";
        document.getElementById("gender").value = 'null';
