@@ -43,6 +43,9 @@ p {
 #myBirthday {
     background-color: blueviolet;
 }
-#footer {
-    color: deeppink;
+footer {
+    color: red;
+}
+label{
+    color: red;
 }
